@@ -28,7 +28,7 @@
 
 ### 🚀 What I'm up to
 
-- 🏀 Internship at **AlentApp** — web systems for the Portuguese Basketball Federation
+- 🏀 Internship at **AlentApp** — web systems
 - 💡 Building [**lightstickwaves.com**](https://lightstickwaves.com) — fan web app controlling a K-pop lightstick via Web Bluetooth
 - 🏪 Freelance web dev for small businesses in Alentejo
 
