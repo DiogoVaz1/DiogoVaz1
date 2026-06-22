@@ -28,7 +28,7 @@
 
 ### 🚀 What I'm up to
 
-- 🏀 Internship at **AlentApp** — web systems
+- 🏀 Internship at **AlentApp** — web systems for the Portuguese Basketball Federation
 - 💡 Building [**lightstickwaves.com**](https://lightstickwaves.com) — fan web app controlling a K-pop lightstick via Web Bluetooth
 - 🏪 Freelance web dev for small businesses in Alentejo
 
@@ -37,7 +37,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DiogoVaz1&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=DiogoVaz1&theme=default&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoVaz1&layout=compact&theme=default&hide_border=true&langs_count=6" />
 </p>
 
@@ -56,6 +56,6 @@
 ### 📬 Get in touch
 
 <p>
-  <a href="mailto:diogovazz@protonmail.com"><img src="https://img.shields.io/badge/Email-diogovaz1%40hotmail.com-D44638?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:diogovazz@protonmail.com"><img src="https://img.shields.io/badge/Email-diogovazz%40protonmail.com-D44638?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://diogovaz1.github.io"><img src="https://img.shields.io/badge/Portfolio-diogovaz1.github.io-185FA5?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
