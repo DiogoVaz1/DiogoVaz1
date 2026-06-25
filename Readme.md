@@ -57,5 +57,5 @@
 
 <p>
   <a href="mailto:diogovazz@protonmail.com"><img src="https://img.shields.io/badge/Email-diogovazz%40protonmail.com-D44638?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://diogovaz1.github.io"><img src="https://img.shields.io/badge/Portfolio-diogovaz1.github.io-185FA5?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://diogovaz1.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-diogovaz1.github.io-185FA5?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
